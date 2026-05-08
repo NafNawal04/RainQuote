@@ -1,0 +1,11 @@
+node_modules
+Frontend/node_modules
+Backend/node_modules
+.git
+.gitignore
+package-lock.json
+Frontend/package-lock.json
+Backend/package-lock.json
+build
+Frontend/build
+.env
